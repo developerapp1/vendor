@@ -23,7 +23,8 @@ function Home(){
     return(
         <div className="home-page-main-div">
             <div className="banner-main-div">
-                Multi-Vendor Online Grocery Management System
+                {/* Multi-Vendor Online Grocery Management System */}
+                Chawala Ceramic Tile Store
             </div>
             <div className="section">
                 <div className="section-heading">Who we are?</div>
